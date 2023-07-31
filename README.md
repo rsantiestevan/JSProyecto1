@@ -42,3 +42,5 @@ Don't forget to execute:
 
 *Run all the fixer*
 > `composer ci`
+
+Hello this is a new line!
